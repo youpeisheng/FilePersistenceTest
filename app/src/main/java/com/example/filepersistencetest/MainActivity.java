@@ -23,7 +23,7 @@ import java.io.OutputStreamWriter;
 
 public class MainActivity extends AppCompatActivity {
     private EditText edit;
-
+//测试
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
